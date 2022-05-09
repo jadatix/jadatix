@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java.
 - 👌 I'm currently working on [petto-kurinniku](https://github.com/jadatix/petto-kurinikku).
 - 💞️ I’m looking to collaborate on interesting projects.
-- 📫 Mail: andriiliasgenko@icloud.com
+- 📫 Mail: secrecy-ample.0j@icloud.com
 
 ## &#x1f4c8; GitHub Stats
 
