@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in web, apps, data and games.
 - 🌱 I’m currently learning Java.
-- 👌 I'm currently working on [course work](https://github.com/jadatix/dataManagerJava).
+- 👌 I'm currently working on [course work](https://github.com/jadatix/carBooking).
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 Mail: secrecy-ample.0j@icloud.com
 
